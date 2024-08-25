@@ -1,6 +1,7 @@
 ## Olá, Me chamo Gustavo Alcântara! 👋
 
-Apaixonado por desenvolver projetos os quais facilitam 
+Apaixonado por desenvolver projetos os quais facilitam a vida dos usuários. </br>
+Cursando Ciências da Computação na Universidade Paulista - UNIP.
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Alcantara07&show_icons=true&theme=highcontrast)
 
@@ -8,7 +9,15 @@ Apaixonado por desenvolver projetos os quais facilitam
 
 <table>
   <tr>
+    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
+    <td>⭐</td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
+    <td>⭐</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></td>
     <td>⭐</td>
   </tr>
   <tr>
@@ -16,16 +25,12 @@ Apaixonado por desenvolver projetos os quais facilitam
     <td>⭐⭐⭐</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
     <td>⭐⭐⭐</td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-    <td>⭐</td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
+    <td>⭐⭐⭐⭐</td>
   </tr>
 </table>
 
@@ -39,6 +44,6 @@ Atualmente, atuo como Assistente de PCP na [METALPLAN](https://www.metalplan.com
 
 ### Idiomas:
 
-- 🇺🇸 - English
-- 🇧🇷 - Português-Brasileiro
+- 🇺🇸 - Inglês (Avançado). 
+- 🇧🇷 - Português-Brasileiro (Nativo).
 
