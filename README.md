@@ -1,6 +1,5 @@
-## Olá, eu sou Gustavo Alcântara! 👋
+## Olá, Bem-Vindo(a) ao meu Perfil! 👋
 
-Estudante de Ciências da Computação na Universidade Paulista.</br>
 Gosto de desenvolver soluções que tornam a vida dos usuários mais fácil e eficiente.
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=Gustavo-Alcantara07&show_icons=true&theme=highcontrast)
