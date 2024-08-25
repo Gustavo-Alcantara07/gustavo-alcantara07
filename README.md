@@ -1,49 +1,33 @@
-## Olá, Me chamo Gustavo Alcântara! 👋
+## Olá, eu sou Gustavo Alcântara! 👋
 
-Apaixonado por desenvolver projetos os quais facilitam a vida dos usuários. </br>
-Cursando Ciências da Computação na Universidade Paulista - UNIP.
+Estudante de Ciências da Computação na Universidade Paulista.</br>
+Gosto de desenvolver soluções que tornam a vida dos usuários mais fácil e eficiente.
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Alcantara07&show_icons=true&theme=highcontrast)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Gustavo-Alcantara07&show_icons=true&theme=highcontrast)
 
-### Conhecimento nas Tecnologias:
+### Tecnologias
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></td>
-    <td>⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
-    <td>⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-    <td>⭐⭐⭐</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-</table>
-
-### Experiência em Nuvem:
 <div style="display: inline_block">
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+### Experiência com Nuvem
+
+<div style="display: flex; gap: 10px; margin: 20px 0;">
     <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<div><br/>
+</div></br>
 
-Atualmente, atuo como Assistente de PCP na [METALPLAN](https://www.metalplan.com.br), onde desenvolvo projetos utilizando VBA (Visual Basic for Applications).
+Atualmente, trabalho como Assistente de PCP na [Metalplan](https://www.metalplan.com.br), desenvolvendo projetos em VBA (Visual Basic for Applications).
+### Idiomas
 
-### Idiomas:
+<ul>
+    <li>🇺🇸 Inglês (Avançado)</li>
+    <li>🇧🇷 Português (Nativo)</li>
+</ul>
 
-- 🇺🇸 - Inglês (Avançado). 
-- 🇧🇷 - Português-Brasileiro (Nativo).
 
