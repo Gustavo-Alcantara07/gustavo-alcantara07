@@ -13,5 +13,3 @@
 </div><br/>
 
 Atualmente, atuo como Assistente de PCP na [Metalplan](https://www.metalplan.com.br), onde desenvolvo projetos utilizando VBA (Visual Basic for Applications).
-
-![snake animation](https://github.com/<gustavo-alcantara07>/<gustavo-alcantara07>/blob/output/github-contribution-grid-snake2.svg)
