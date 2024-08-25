@@ -23,6 +23,7 @@ Gosto de desenvolver soluções que tornam a vida dos usuários mais fácil e ef
 </div></br>
 
 Atualmente, trabalho como Assistente de PCP na [Metalplan](https://www.metalplan.com.br), desenvolvendo projetos em VBA (Visual Basic for Applications).
+
 ### Idiomas
 
 <ul>
